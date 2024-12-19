@@ -1,16 +1,17 @@
-# score_counter
+# Two-Player Score Counter
 
-A new Flutter project.
+A flexible Flutter application designed to track and manage scores for two players in any game. Whether it's basketball, table tennis, or any other competitive game, this app provides an intuitive way to record, update, and reset scores.
 
-## Getting Started
+## Features
+- **Universal Score Tracking:** Suitable for any two-player game where scores need to be recorded.
+- **Customizable Points:** Add 1, 2, or 3 points to a player's score with a single tap.
+- **Reset Scores:** Reset both players' scores to 0 with a dedicated button.
+- **Dark Mode:** Easily switch between light and dark modes for a personalized user experience.
+- **Responsive Design:** Works seamlessly on devices of all screen sizes.
 
-This project is a starting point for a Flutter application.
+## Customization
+- **Replace player images:** Add your own image assets to the `images` folder and update the paths in the code.
+- **Adjust scoring logic:** Modify the logic to accommodate the specific rules of your game.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to enhance the application further.
